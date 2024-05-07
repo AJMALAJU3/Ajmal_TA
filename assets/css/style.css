@@ -1580,3 +1580,7 @@ section {
   color: #ffc451 !important;
   font-size: 50px;
 }
+link[rel="icon"],
+link[rel="apple-touch-icon"] {
+  border-radius: 50%;
+}
